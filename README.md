@@ -3,7 +3,7 @@
 === Module Description ===
 
 Welcome to my small but original Spotify automation project. The purpose of this project is to
-automate the saving of weekly "Discover Weekly" spotify playlist. The playlists are
+automate the saving of the weekly "Discover Weekly" spotify playlists. The playlists are
 erased by default every week, so if you do not save the songs, you may never see
 them again. This project allows you to easily save your weekly songs, so
 you may return to them at a later date.
